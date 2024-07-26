@@ -9,7 +9,7 @@ body{
 .container{
     width:100%;
     min-height: 100vh;
-    background: linear-gradient(75deg, #e8e515,#29b6c9);
+    background: linear-gradient(135deg, #901774,#044a53);
     
     padding:10px 10px;
   /* margin-bottom: 0px; */
@@ -20,10 +20,10 @@ body{
     background: #fff;
     margin:100px auto 20px;
     padding:20px 30px 70px;
-    /* border-radius: 0px; */
+    border-radius: 25px;
 }
 .todo-app h2{
-    color:#9f5c1e;
+    color:#0e0475;
     display:flex;
     font-size: 45px;
     align-items: center;
@@ -65,11 +65,11 @@ button{
     font-size: 20px;
     cursor:pointer;
     border-radius: 40px;
-      background-color: #2455a3;
+      background-color: #0c7087;
 }
 button:hover{
     
-    background-color: #153677;
+    background-color: #2d4e91;
 }
 ul li{
     list-style: none;
