@@ -16,7 +16,7 @@ body{
 }
 .todo-app{
     width:100%;
-    max-width: 700px;
+    max-width: 600px;
     background: #fff;
     margin:100px auto 20px;
     padding:20px 30px 70px;
@@ -25,13 +25,13 @@ body{
 .todo-app h2{
     color:#0e0475;
     display:flex;
-    font-size: 45px;
+    font-size: 50px;
     align-items: center;
     margin-bottom: 60px;
     margin-left: 40px;
 }
 .todo-app h2 img{
-    width:80px;
+    width:90px;
     margin-left: 50px;
 
 }
@@ -108,7 +108,7 @@ ul li span{
    
     width:40px;
     height:40px;
-    color:#555;
+    color:#7245b9;
     font-size: 22px;
     line-height: 40px;
     text-align: center;
